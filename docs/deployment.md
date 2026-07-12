@@ -21,6 +21,10 @@ npx wrangler@3 pages deploy dist --project-name o-personal-portfolio --branch ma
 
 ## 验收范围
 
+- 1-20 项目均显示“原站已恢复”
+- 项目名称、技术栈、GitHub 与稳定 Pages 地址和各项目最新资料一致
+- 第 12 项为美妆商城、第 15 项为动漫论坛、第 11 项为生猪养殖主题
+
 - 桌面端与移动端页面可见性
 - 20 个项目完整渲染
 - 分类筛选与关键词搜索
