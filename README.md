@@ -1,10 +1,12 @@
-﻿# Nemo 个人作品集
+# Nemo 个人作品集
 
 ![Demo Online](https://img.shields.io/badge/Demo-Online-2d9b67)
 ![Frontend Cloudflare Pages](https://img.shields.io/badge/Frontend-Cloudflare%20Pages-f38020)
 ![License Noncommercial](https://img.shields.io/badge/License-Noncommercial-155eef)
 
 集中展示 20 个已部署全栈项目的个人作品集，包含真实截图、功能介绍、技术栈、GitHub 仓库和在线演示入口。
+
+项目资料已按各仓库 README、稳定 Pages 地址、线上页面标题和 `/health` 结果同步。当前 1-8、13、15、16 已恢复原站前端，其余项目仍在恢复推进中；作品集不再使用旧统一演示壳的错误主题描述。
 
 - 在线演示：https://o-personal-portfolio.pages.dev
 - GitHub：https://github.com/Nemo-netone/o-personal-portfolio
